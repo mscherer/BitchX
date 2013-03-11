@@ -1138,7 +1138,7 @@ AC_CONFIG_COMMANDS([default],[[ echo timestamp > stamp-h
 AC_OUTPUT
 
 echo
-echo BitchX \(c\) 1996-2012 Colten Edwards et al
+echo BitchX \(c\) 1996-2013 Colten Edwards et al
 echo ----------------------------------------------------------
 echo
 echo The configuration script has finished. You should look through
